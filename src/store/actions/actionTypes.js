@@ -1,0 +1,1 @@
+export const LOAD_GITHUB_USERS = 'LOAD_GITHUB_USERS';
